@@ -9,7 +9,7 @@ function App() {
         </p>
       </header>
       <body>
-        <p>check git commands flow</p>
+        <p>check git commands flow pull, only to create  pull request</p>
       </body> 
     </div>
   );
