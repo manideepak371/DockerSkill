@@ -7,7 +7,10 @@ function App() {
         <p>
             hello through docker changed code
         </p>
-      </header> 
+      </header>
+      <body>
+        <p>check git commands flow</p>
+      </body> 
     </div>
   );
 }
